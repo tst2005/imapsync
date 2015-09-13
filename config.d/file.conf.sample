@@ -1,0 +1,5 @@
+LOCALDIR=data/user@host
+REMOTESERV=imap.example.net:993
+REMOTEUSER=user@example.net
+REMOTEPASS='my_secret_password'
+REMOTESSL=yes
